@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-08-20T18:20:59 IST" name="Default suite" finished-at="2021-08-20T18:21:16 IST" duration-ms="17128">
+    <groups>
+    </groups>
+    <test started-at="2021-08-20T18:20:59 IST" name="Default test" finished-at="2021-08-20T18:21:16 IST" duration-ms="17128">
+      <class name="allTests.MensTopwearPage_Test">
+        <test-method is-config="true" signature="launchApplication()[pri:0, instance:allTests.MensTopwearPage_Test@1725dc0f]" started-at="2021-08-20T18:20:59 IST" name="launchApplication" finished-at="2021-08-20T18:21:03 IST" duration-ms="3983" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method signature="Test6()[pri:0, instance:allTests.MensTopwearPage_Test@1725dc0f]" started-at="2021-08-20T18:21:03 IST" name="Test6" finished-at="2021-08-20T18:21:08 IST" duration-ms="4914" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test6 -->
+        <test-method is-config="true" signature="closeApplication()[pri:0, instance:allTests.MensTopwearPage_Test@1725dc0f]" started-at="2021-08-20T18:21:08 IST" name="closeApplication" finished-at="2021-08-20T18:21:08 IST" duration-ms="223" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApplication -->
+        <test-method is-config="true" signature="launchApplication()[pri:0, instance:allTests.MensTopwearPage_Test@1725dc0f]" started-at="2021-08-20T18:21:08 IST" name="launchApplication" finished-at="2021-08-20T18:21:12 IST" duration-ms="3521" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method signature="Test7()[pri:0, instance:allTests.MensTopwearPage_Test@1725dc0f]" started-at="2021-08-20T18:21:12 IST" name="Test7" finished-at="2021-08-20T18:21:16 IST" duration-ms="4233" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test7 -->
+        <test-method is-config="true" signature="closeApplication()[pri:0, instance:allTests.MensTopwearPage_Test@1725dc0f]" started-at="2021-08-20T18:21:16 IST" name="closeApplication" finished-at="2021-08-20T18:21:16 IST" duration-ms="209" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApplication -->
+      </class> <!-- allTests.MensTopwearPage_Test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
